@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "git-commenter"
+version = "0.1.0"
+description = "Make your git commit message colorful"
+authors = ["Shunta Komatsu <skmatz217@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+homepage = "https://skmatz.com"
+repository = "https://github.com/skmatz/git-commenter"
+
+keywords = ["cli", "git"]
+
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Utilities"
+]
+
+include = ["CHANGELOG.md"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^18.3-alpha.0", allows-prereleases = true}
+flake8 = "^3.7"
+pylint = "^2.3"
+pytest = "^5.1"
+
+[tool.poetry.scripts]
+git-commenter = "git_commenter.cli:main"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
