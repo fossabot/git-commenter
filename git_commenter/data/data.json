@@ -1,0 +1,435 @@
+{
+    "emoji": [
+        {
+            "name": "add dependency",
+            "emoji": "\u2795",
+            "frequency": 0
+        },
+        {
+            "name": "bad code",
+            "emoji": "\ud83d\udca9",
+            "frequency": 0
+        },
+        {
+            "name": "breaking changes",
+            "emoji": "\ud83d\udca5",
+            "frequency": 0
+        },
+        {
+            "name": "bug",
+            "emoji": "\ud83d\udc1b",
+            "frequency": 0
+        },
+        {
+            "name": "comment",
+            "emoji": "\ud83d\udcac",
+            "frequency": 0
+        },
+        {
+            "name": "configuration files",
+            "emoji": "\ud83d\udd27",
+            "frequency": 0
+        },
+        {
+            "name": "critical hot-fix",
+            "emoji": "\ud83d\ude91",
+            "frequency": 0
+        },
+        {
+            "name": "deploy",
+            "emoji": "\ud83d\ude80",
+            "frequency": 0
+        },
+        {
+            "name": "docker",
+            "emoji": "\ud83d\udc33",
+            "frequency": 0
+        },
+        {
+            "name": "docs",
+            "emoji": "\ud83d\udcdd",
+            "frequency": 0
+        },
+        {
+            "name": "environment",
+            "emoji": "\ud83c\udf0d",
+            "frequency": 0
+        },
+        {
+            "name": "initial commit",
+            "emoji": "\ud83c\udf89",
+            "frequency": 0
+        },
+        {
+            "name": "tag",
+            "emoji": "\ud83d\udd16",
+            "frequency": 0
+        },
+        {
+            "name": "move",
+            "emoji": "\ud83d\ude9a",
+            "frequency": 0
+        },
+        {
+            "name": "new features",
+            "emoji": "\u2728",
+            "frequency": 0
+        },
+        {
+            "name": "performance",
+            "emoji": "\u26a1\ufe0f",
+            "frequency": 0
+        },
+        {
+            "name": "refactoring code",
+            "emoji": "\ud83d\udd28",
+            "frequency": 0
+        },
+        {
+            "name": "remove",
+            "emoji": "\ud83d\udd25",
+            "frequency": 0
+        },
+        {
+            "name": "remove dependency",
+            "emoji": "\u2796",
+            "frequency": 0
+        },
+        {
+            "name": "structure",
+            "emoji": "\ud83d\udcbc",
+            "frequency": 0
+        },
+        {
+            "name": "test",
+            "emoji": "\u2705",
+            "frequency": 0
+        },
+        {
+            "name": "ui",
+            "emoji": "\ud83c\udfa8",
+            "frequency": 0
+        },
+        {
+            "name": "update due to external changes",
+            "emoji": "\ud83d\udc7d",
+            "frequency": 0
+        },
+        {
+            "name": "update package",
+            "emoji": "\ud83d\udce6",
+            "frequency": 0
+        },
+        {
+            "name": "wip",
+            "emoji": "\ud83d\udea7",
+            "frequency": 0
+        }
+    ],
+    "verb": [
+        {
+            "verb": "add",
+            "frequency": 0
+        },
+        {
+            "verb": "allow",
+            "frequency": 0
+        },
+        {
+            "verb": "avoid",
+            "frequency": 0
+        },
+        {
+            "verb": "change",
+            "frequency": 0
+        },
+        {
+            "verb": "check",
+            "frequency": 0
+        },
+        {
+            "verb": "clean",
+            "frequency": 0
+        },
+        {
+            "verb": "convert",
+            "frequency": 0
+        },
+        {
+            "verb": "do",
+            "frequency": 0
+        },
+        {
+            "verb": "don't",
+            "frequency": 0
+        },
+        {
+            "verb": "fix",
+            "frequency": 0
+        },
+        {
+            "verb": "handle",
+            "frequency": 0
+        },
+        {
+            "verb": "implement",
+            "frequency": 0
+        },
+        {
+            "verb": "improve",
+            "frequency": 0
+        },
+        {
+            "verb": "make",
+            "frequency": 0
+        },
+        {
+            "verb": "merge",
+            "frequency": 0
+        },
+        {
+            "verb": "move",
+            "frequency": 0
+        },
+        {
+            "verb": "refactor",
+            "frequency": 0
+        },
+        {
+            "verb": "remove",
+            "frequency": 0
+        },
+        {
+            "verb": "rename",
+            "frequency": 0
+        },
+        {
+            "verb": "reset",
+            "frequency": 0
+        },
+        {
+            "verb": "revert",
+            "frequency": 0
+        },
+        {
+            "verb": "set",
+            "frequency": 0
+        },
+        {
+            "verb": "update",
+            "frequency": 0
+        },
+        {
+            "verb": "upgrade",
+            "frequency": 0
+        },
+        {
+            "verb": "use",
+            "frequency": 0
+        }
+    ],
+    "object": [
+        {
+            "object": "alias",
+            "frequency": 0
+        },
+        {
+            "object": "auto",
+            "frequency": 0
+        },
+        {
+            "object": "bug",
+            "frequency": 0
+        },
+        {
+            "object": "class",
+            "frequency": 0
+        },
+        {
+            "object": "code",
+            "frequency": 0
+        },
+        {
+            "object": "component",
+            "frequency": 0
+        },
+        {
+            "object": "data",
+            "frequency": 0
+        },
+        {
+            "object": "default",
+            "frequency": 0
+        },
+        {
+            "object": "design",
+            "frequency": 0
+        },
+        {
+            "object": "device",
+            "frequency": 0
+        },
+        {
+            "object": "docs",
+            "frequency": 0
+        },
+        {
+            "object": "driver",
+            "frequency": 0
+        },
+        {
+            "object": "error",
+            "frequency": 0
+        },
+        {
+            "object": "files",
+            "frequency": 0
+        },
+        {
+            "object": "function",
+            "frequency": 0
+        },
+        {
+            "object": "name",
+            "frequency": 0
+        },
+        {
+            "object": "pointer",
+            "frequency": 0
+        },
+        {
+            "object": "return",
+            "frequency": 0
+        },
+        {
+            "object": "tag",
+            "frequency": 0
+        },
+        {
+            "object": "test",
+            "frequency": 0
+        },
+        {
+            "object": "type",
+            "frequency": 0
+        },
+        {
+            "object": "typo",
+            "frequency": 0
+        },
+        {
+            "object": "variable",
+            "frequency": 0
+        },
+        {
+            "object": "version",
+            "frequency": 0
+        },
+        {
+            "object": "warning",
+            "frequency": 0
+        }
+    ],
+    "template": [
+        {
+            "template": "\ud83c\udfa8 :  Add convenience API",
+            "frequency": 0
+        },
+        {
+            "template": "\u2728 :  Add new function",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udcdd :  Add LICENSE",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udcdd :  Add README.md",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83c\udfa8 :  Change API",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd12 :  Don't use unsafe function",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udc1b :  Fix bug",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udcac :  Fix comment",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udc84 :  Fix designs",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udc1b :  Fix typo",
+            "frequency": 0
+        },
+        {
+            "template": "\u26a1\ufe0f :  Improve performance",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83c\udfa8 :  Improve readability of some code",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udc84 :  Improve UI",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83c\udf89 :  Initial commit",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd28 :  Refactor code",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd25 :  Remove debug statement",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd25 :  Remove extra whitespace",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd25 :  Remove some dead code",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd25 :  Remove unused files",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd25 :  Remove unused variable",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\ude9a :  Rename variable",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udce6 :  Update package version",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udcdd :  Update CHANGELOG.md",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udd27 :  Update config",
+            "frequency": 0
+        },
+        {
+            "template": "\ud83d\udcdd :  Update README.md",
+            "frequency": 0
+        }
+    ]
+}
