@@ -28,6 +28,9 @@ include = ["CHANGELOG.md"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
+pyinquirer = "^1.0"
+pyperclip = "^1.7"
+termcolor = "^1.1"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^18.3-alpha.0", allows-prereleases = true}
