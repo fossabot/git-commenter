@@ -6,4 +6,6 @@ before_install:
 install:
   - poetry install
 script:
+  - poetry run isort -c -rc git_commenter/
+  - poetry run flake8 git_commenter/
   - poetry run pytest tests/
