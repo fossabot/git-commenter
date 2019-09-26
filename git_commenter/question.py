@@ -42,7 +42,9 @@ class Question:
             "choices": [*self.format_choices(emojis, formatter)],
         }
 
-        return prompt(question, style=STYLE)["emoji"][4]
+        return self.remove_frequency_string(
+            prompt(question, style=STYLE)["emoji"]
+        )[0]
 
     def ask_verb(self):
         """Display CLI to select a verb.

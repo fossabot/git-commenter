@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 0.1.1 (2019/09/26)
+
+- Bug fix
+  - Fix [#2](https://github.com/skmatz/git-commenter/issues/2)
+
 ## Version 0.1.0 (2019/09/19)
 
 - Interactive CLI
