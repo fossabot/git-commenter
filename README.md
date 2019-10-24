@@ -17,6 +17,7 @@ U /"___|uU /"___|U /"___||"|        ___
 The **Git Commenter** is a tool to make your git commit message **colorful**.
 
 ![demo](https://i.imgur.com/qQYynv0.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fgit-commenter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fgit-commenter?ref=badge_shield)
 
 ## Get Started
 
@@ -91,3 +92,7 @@ git clone https://github.com/skmatz/git-commenter.git
 cd git-commenter
 poetry install
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fgit-commenter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fgit-commenter?ref=badge_large)
